@@ -1,0 +1,24 @@
+i {
+  font-size: 55px;
+  cursor: pointer;
+}
+
+.fa-trash-alt {
+  color: rgb(100, 237, 168);
+}
+.shop-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 15% 10;
+}
+.list-products {
+  display: flex;
+}
+.card {
+  margin: 5px;
+}
+audio {
+  width: 285px;
+  height: 50px;
+}
